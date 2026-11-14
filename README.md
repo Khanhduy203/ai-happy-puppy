@@ -1,10 +1,9 @@
-# AI Happy — baby laughing in a garden of bubbles
+# AI Happy — grinning capybara at a birthday picnic
 
 Entry for make.fun's ai-happy-01: an image made to make the AI judge happy.
 
-A baby laughing with pure delight — eyes squeezed shut, mouth wide open in
-a huge giggle — sitting in a sunlit garden with iridescent soap bubbles
-floating all around, warm golden light, soft pastel flowers. A universal,
-unmistakable moment of joy, not a stock smiley.
+A grinning capybara in a tiny party hat, holding a slice of birthday cake
+and a flower bouquet in a sunny meadow. Funny, cute, meme-friendly — a
+single clear subject that reads instantly at thumbnail size.
 
 `main.ts` copies `entry.png` to `/output/entry.png`.

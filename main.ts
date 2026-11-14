@@ -1,12 +1,10 @@
 // AI-happy entry (Node 22, standard library only): the picture is the
-// entry.png beside this file (a baby laughing with pure delight — eyes
-// squeezed shut, mouth wide open in a huge giggle, chubby cheeks — sitting
-// in a sunlit garden with iridescent soap bubbles floating all around,
-// warm golden light, soft pastel flowers), and the program copies it to
-// /output/entry.png. The judge sees exactly the bytes copied.
+// entry.png beside this file (a grinning capybara in a tiny party hat
+// holding a slice of birthday cake and a flower bouquet in a sunny meadow),
+// and the program copies it to /output/entry.png. The judge sees exactly
+// the bytes copied.
 // Deterministic: both runs copy the same bytes, so the two grader runs match.
 // The program reads nothing else and writes only entry.png.
-// v2: the baby image replaces the puppy; the copy logic is unchanged.
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
