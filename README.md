@@ -1,9 +1,10 @@
-# AI Happy — puppy with a heart balloon
+# AI Happy — baby laughing in a garden of bubbles
 
 Entry for make.fun's ai-happy-01: an image made to make the AI judge happy.
 
-A joyful golden retriever puppy mid-leap in a sunny wildflower meadow,
-catching a bright red heart-shaped balloon, with the words "made to make
-you smile" — a specific, warm moment, not a stock smiley.
+A baby laughing with pure delight — eyes squeezed shut, mouth wide open in
+a huge giggle — sitting in a sunlit garden with iridescent soap bubbles
+floating all around, warm golden light, soft pastel flowers. A universal,
+unmistakable moment of joy, not a stock smiley.
 
 `main.ts` copies `entry.png` to `/output/entry.png`.

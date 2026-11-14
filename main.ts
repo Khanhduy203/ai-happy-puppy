@@ -1,7 +1,8 @@
 // AI-happy entry (Node 22, standard library only): the picture is the
-// entry.png beside this file (a joyful golden retriever puppy leaping to
-// catch a red heart-shaped balloon in a sunny wildflower meadow, with the
-// words "made to make you smile"), and the program copies it to
+// entry.png beside this file (a baby laughing with pure delight — eyes
+// squeezed shut, mouth wide open in a huge giggle, chubby cheeks — sitting
+// in a sunlit garden with iridescent soap bubbles floating all around,
+// warm golden light, soft pastel flowers), and the program copies it to
 // /output/entry.png. The judge sees exactly the bytes copied.
 // Deterministic: both runs copy the same bytes, so the two grader runs match.
 // The program reads nothing else and writes only entry.png.
