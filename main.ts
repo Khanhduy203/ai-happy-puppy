@@ -4,6 +4,7 @@
 // words "made to make you smile"), and the program copies it to
 // /output/entry.png. The judge sees exactly the bytes copied.
 // Deterministic: both runs copy the same bytes, so the two grader runs match.
+// The program reads nothing else and writes only entry.png.
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
