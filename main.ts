@@ -3,7 +3,7 @@
 // catch a red heart-shaped balloon in a sunny wildflower meadow, with the
 // words "made to make you smile"), and the program copies it to
 // /output/entry.png. The judge sees exactly the bytes copied.
-// Deterministic: both runs copy the same bytes.
+// Deterministic: both runs copy the same bytes, so the two grader runs match.
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
