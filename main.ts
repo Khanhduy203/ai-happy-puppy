@@ -6,6 +6,7 @@
 // /output/entry.png. The judge sees exactly the bytes copied.
 // Deterministic: both runs copy the same bytes, so the two grader runs match.
 // The program reads nothing else and writes only entry.png.
+// v2: the baby image replaces the puppy; the copy logic is unchanged.
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join } from 'node:path';
 
